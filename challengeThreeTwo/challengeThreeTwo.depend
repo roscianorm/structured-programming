@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620770588 source:q:\desktop\git repositories\structured-programming\challengethreetwo\main.c
+	<stdio.h>
+	<stdlib.h>
+
