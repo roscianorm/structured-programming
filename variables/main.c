@@ -32,7 +32,6 @@ int main()
     // printf("-------------------------------------------------------\n\n");
     // printf("El valor de la variable integer es: %i, \n\n El valor de la variable floatNumber es = %f, \n\n El valor de la variable doubleNumber es = %f, \n\n El valor de la variable letter es = %c, \n\n El valor de la variable boolean es = %d \n\n",integer,floatNumber,doubleNumber,letter,boolean);
 
-
     // Como leer los inputs del usuario
     int userInt;
     char favoriteLetter;
