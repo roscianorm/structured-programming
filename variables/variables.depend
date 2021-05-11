@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620701855 source:q:\desktop\git repositories\structured-programming\variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
